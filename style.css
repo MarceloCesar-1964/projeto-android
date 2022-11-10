@@ -126,7 +126,7 @@ nav > a {
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
-    font-size: .8em;
+    
 }
 
 nav > a:hover {
